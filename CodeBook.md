@@ -7,8 +7,8 @@ Josh Freeman
   This document is to give additional information (variables, data, and transformations) used in the Johns Hopkins MOOC "Getting and Cleaning Data Course" on Coursera. 
 
 ##Source
-    [Data Description] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-    [Data Source File] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+    [Data Description](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+    [Data Source File](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
     
 ## Data Set Information
 A group of 30 volunteers, in the age range of 19-48, performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) while wearing a smartphone (Samsung Galaxy S II) on the waist. The galaxy's accelerometer and gyroscope were utilized at a constant rate of 50Hz to capture the 3-axial linear acceleration and 3-axial angular velocity. The group was video-recorded to label the data manually. The dataset was partitioned randomly into two sets with 70% of the group's data used for the training data and the test data using the remaining 30%. 
